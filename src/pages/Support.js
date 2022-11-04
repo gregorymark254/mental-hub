@@ -18,6 +18,10 @@ const Support = () => {
               </div>
               <div className="w-full p-6 space-y-4">
                 <h3>VOLUNTEER</h3>
+                <p>These families can come from nothing and make something out of themselves either through there hard work or compete and win.
+                  But they cannot be able to compete when they are confined and defined by the small helpless world they live in, in this narrow way that makes them think and believe is normal.
+                  Volunteer to mentor them. Their mental health matters.
+                </p>
                 <p>Volunteering is the ultimate exercise in democracy.Everybody can be great. Because anybody can serve. 
                   Wherever you turn, you can find someone who needs you. Even if it is a little thing, do something for which there is no pay but
                   the privilege of doing it. Remember, you don’t live in the world all of your own.
