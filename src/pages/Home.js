@@ -34,7 +34,7 @@ const Home = () => {
                     <div className="w-full bg-red-400 p-4 text-center">
                         <h3>Take A pledge</h3>
                         <h4>Support Us</h4>
-                        <p>There is nothing satisfying than knowing where and who your donations are helping.</p>
+                        <p>Nothing feels better than knowing exactly who your money is going to help. We have partnered with Makongo Computer Collage to help restore humanity.</p>
                     </div>
                 </div>
                 <div className="md:flex">
