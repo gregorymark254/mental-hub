@@ -33,7 +33,8 @@ const Home = () => {
                     </div>
                     <div className="w-full bg-red-400 p-4 text-center">
                         <h3>Take A pledge</h3>
-                        <button>Support Us</button>
+                        <h4>Support Us</h4>
+                        <p>There is nothing satisfying than knowing where and who your donations are helping.</p>
                     </div>
                 </div>
                 <div className="md:flex">
