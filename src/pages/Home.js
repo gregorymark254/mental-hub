@@ -26,11 +26,9 @@ const Home = () => {
                 <div className="md:flex">
                     <div className="w-full bg-[#F4F7ED] p-4 text-center space-y-3">
                         <h3><u>Our Mission</u></h3>
-                        <h5>We can’t help everyone, but…Everyone can help someone.</h5>
-                        <p>It's easy to run to others. It's so hard to stand on one's own record. You can fake virtue for an audience. You can't fake it in your own eyes. 
-                            Your ego is your strictest judge. They run from it. They spend their lives running. It's easier to donate a few thousand to charity and think
-                            oneself noble than to base self-respect on personal standards of personal achievement. It's simple to seek substitutes for competence--such 
-                            easy substitutes: love, charm, kindness, charity. But there is no substitute for competence.
+                        <h5>Inclusivity and restoring love laughter and smiles.</h5>
+                        <p>This is more than just charity for us. It is about saving lives and protecting amilies and communities because the only thing these families hope
+                            for is a decent life. It's simple to seek substitutes for competence--such easy substitutes: love, charm, kindness, charity. But there is no substitute for competence.
                         </p>
                     </div>
                     <div className="w-full bg-red-400 p-4 text-center">
