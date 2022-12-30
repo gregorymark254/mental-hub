@@ -16,7 +16,6 @@ const Home = () => {
         </section>
 
         <div className="container mx-auto p-4">
-            <div>
               <p>Mobilizing resources and skills that empower vulnerable communities.
                 MHHF aims at impacting the society and ensuring equality in slum and rural areas through good if not quality education and healthcare.
                 The founder and Executive personnel, Christine Akombo is a mentor and works closely with several Non
@@ -28,15 +27,21 @@ const Home = () => {
                 "Create independent youth through an education"
                 MHHF works to improving lives regardless of age, origin, gender and faith
               </p>
-              <img src="https://i.postimg.cc/BQTF0KNw/mental3.jpg" alt="" />
-              <p>
-               Our work:
-                Giving a quality education is the best way to create equality around the world.
-                However, this has proven to be facing the biggest challenge- vulnerability.
-                Makongo computer college is helping solve this by offering computer skills to students with the help of donations and  volunteers.
-                We are looking to extend this deed to abandoned children in orphanages through sponsorships.
-                For only 400 dollars a year, you could help a child stay in school and still feel included.
-              </p>
+              <div className="md:grid grid-cols-2 gap-4">
+                    <div>
+                        <img src="https://i.postimg.cc/BQTF0KNw/mental3.jpg" alt="" />
+                    </div>
+                    <div>
+                       <p>
+                       Our work:
+                        Giving a quality education is the best way to create equality around the world.
+                        However, this has proven to be facing the biggest challenge- vulnerability.
+                        Makongo computer college is helping solve this by offering computer skills to students with the help of donations and  volunteers.
+                        We are looking to extend this deed to abandoned children in orphanages through sponsorships.
+                        For only 400 dollars a year, you could help a child stay in school and still feel included.
+                      </p>
+                  </div>
+              </div> 
             </div>
             <div className="py-6">
                 <div className="md:flex">
