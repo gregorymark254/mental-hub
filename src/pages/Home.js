@@ -10,18 +10,33 @@ const Home = () => {
       <main className="min-h-screen">
         <section className="hero">
             <div className="hero-inner">
-                <span>I know it's hard to believe people when they say, "I know how you feel". But actually I know how you feel. 
-                    I understand feeling as small as insignificant as humanly as possible and how it can ache in places that you did not know you had inside you.
-                    You know, it doesn't matter the efforts you make trying to define yourself, how many times you try to keep both your struggles and
-                    life in perspective, you will go to bed every night going over every detail, wondering where you went wrong, and sometimes you can 
-                    convince yourself that, things are going to get back to normal and after all that, however long that may be, you will meet people here 
-                    that will make you feel worthwhile and the little pieces of your soul will finally come back and all that frustrated past will eventually 
-                    begin to fade away. Just hold on ❤.
-                </span>
+                <h1>Welcome to Mental health hub foundation.</h1>
+                <span>It's a charity based organization that assists and works close with organizations that have same goal - Equality. </span>
             </div>
         </section>
 
         <div className="container mx-auto p-4">
+            <div>
+              <p>Mobilizing resources and skills that empower vulnerable communities.
+                MHHF aims at impacting the society and ensuring equality in slum and rural areas through good if not quality education and healthcare.
+                The founder and Executive personnel, Christine Akombo is a mentor and works closely with several Non
+                 governmental organisations including Global Give Back Circle( GGBC) as a volunteer mentor is equally a mental health enthusiast.
+              </p>
+              <p>
+               Nothing gives anyone fulfilment than knowing exactly where their money money is going because of these,
+                She saw it fit to partner with Makongo computer college located in one of the vulnerable areas-Mukuru kwa Ruben to help provide a good education because she believes in a good education and youth empowerment.
+                "Create independent youth through an education"
+                MHHF works to improving lives regardless of age, origin, gender and faith
+              </p>
+              <p>
+               Our work:
+                Giving a quality education is the best way to create equality around the world.
+                However, this has proven to be facing the biggest challenge- vulnerability.
+                Makongo computer college is helping solve this by offering computer skills to students with the help of donations and  volunteers.
+                We are looking to extend this deed to abandoned children in orphanages through sponsorships.
+                For only 400 dollars a year, you could help a child stay in school and still feel included.
+              </p>
+            </div>
             <div className="py-6">
                 <div className="md:flex">
                     <div className="w-full bg-[#F4F7ED] p-4 text-center space-y-3">
