@@ -16,7 +16,7 @@ const Home = () => {
         </section>
 
         <div className="container mx-auto p-4">
-              <div className="md:grid grid-cols-2 gap-4">
+              <div className="md:grid grid-cols-2 gap-4 p-4">
                 <div>
                     <p>Mobilizing resources and skills that empower vulnerable communities.
                       MHHF aims at impacting the society and ensuring equality in slum and rural areas through good if not quality education and healthcare.
@@ -31,10 +31,10 @@ const Home = () => {
                     </p>
                 </div>
                  <div>
-                    <img src="https://i.postimg.cc/BQTF0KNw/mental3.jpg" alt="" />
+                    <img src="https://i.postimg.cc/RVRMKkmG/mental4.jpg" alt="" />
                 </div>
               </div> 
-              <div className="md:grid grid-cols-2 gap-4">
+              <div className="md:grid grid-cols-2 gap-4 p-4">
                 <div>
                     <img src="https://i.postimg.cc/BQTF0KNw/mental3.jpg" alt="" />
                 </div>
