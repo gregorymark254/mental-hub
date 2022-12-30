@@ -1,7 +1,5 @@
 import React from 'react'
-import event from '../images/event.jpg'
 import event1 from '../images/event1.jpg'
-import event2 from '../images/event2.jpg'
 import event3 from '../images/event3.jpg'
 
 const Home = () => {
@@ -94,7 +92,7 @@ const Home = () => {
                 <h2 className="py-4 text-center">OUR EVENTS</h2>
                 <div className="md:grid grid-cols-3 gap-4">
                     <div>
-                        <img src={event} alt="" />
+                        <img src="https://i.postimg.cc/tJHtFZb1/mental5.jpg" alt="" />
                         <p>You fight for what’s right, you set that vision of where we could be—and then you go after it yourself.</p>
                     </div>
                     <div>
@@ -102,7 +100,7 @@ const Home = () => {
                         <p>We try to come alongside people and interact with our supporters so that they know that we see them, we’re with them, and we’re in this together.</p>
                     </div>
                     <div>
-                        <img src={event2} alt="" />
+                        <img src="https://i.postimg.cc/nzmGsKyb/mental6.jpg" alt="" />
                         <p>The best way to find yourself is to lose yourself in the service of others. A few people of integrity can go a long way.</p>
                     </div>
                 </div>
