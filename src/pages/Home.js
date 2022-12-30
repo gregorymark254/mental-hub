@@ -28,6 +28,7 @@ const Home = () => {
                 "Create independent youth through an education"
                 MHHF works to improving lives regardless of age, origin, gender and faith
               </p>
+              <img src="https://i.postimg.cc/BQTF0KNw/mental3.jpg" alt="" />
               <p>
                Our work:
                 Giving a quality education is the best way to create equality around the world.
