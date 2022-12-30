@@ -1,6 +1,4 @@
 import React from 'react'
-import image1 from '../images/event4.jpg'
-import image2 from '../images/event5.jpg'
 
 const Support = () => {
   return (
@@ -14,7 +12,7 @@ const Support = () => {
 
             <div className="md:flex">
               <div className="w-full p-6">
-                <img src={image1} alt="" />
+                <img src="https://i.postimg.cc/cCKwCCmz/mental2.jpg" alt="" />
               </div>
               <div className="w-full p-6 space-y-4">
                 <h3>VOLUNTEER</h3>
@@ -31,7 +29,7 @@ const Support = () => {
 
             <div className="md:flex">
               <div className="w-full p-6">
-                <img src={image2} alt="" />
+                <img src="https://i.postimg.cc/J4kjWytD/mental1.jpg" alt="" />
               </div>
               <div className="w-full p-6 space-y-4">
                 <h3>FUNDRAISE</h3>
