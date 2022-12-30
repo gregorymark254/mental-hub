@@ -9,7 +9,7 @@ const Home = () => {
         <section className="hero">
             <div className="hero-inner">
                 <h1>Welcome to Mental health hub foundation.</h1>
-                <span>It's a charity based organization that assists and works close with organizations that have same goal - Equality. </span>
+                <span>It's a charity based organization that assists and works closely with organizations that strongly believe in Equality. </span>
             </div>
         </section>
 
