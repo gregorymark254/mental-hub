@@ -93,7 +93,7 @@ const Home = () => {
                 <div className="md:grid grid-cols-3 gap-4">
                     <div>
                         <img src="https://i.postimg.cc/tJHtFZb1/mental5.jpg" alt="" />
-                        <p>You fight for what’s right, you set that vision of where we could be—and then you go after it yourself.</p>
+                        <p>You fight for what’s right, you set that vision of where we could be—and then you go after it yourself.For only 400 dollars a year you could help a child feel included.</p>
                     </div>
                     <div>
                         <img src={event1} alt="" />
