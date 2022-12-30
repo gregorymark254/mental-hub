@@ -16,33 +16,39 @@ const Home = () => {
         </section>
 
         <div className="container mx-auto p-4">
-              <p>Mobilizing resources and skills that empower vulnerable communities.
-                MHHF aims at impacting the society and ensuring equality in slum and rural areas through good if not quality education and healthcare.
-                The founder and Executive personnel, Christine Akombo is a mentor and works closely with several Non
-                 governmental organisations including Global Give Back Circle( GGBC) as a volunteer mentor is equally a mental health enthusiast.
-              </p>
-              <p>
-               Nothing gives anyone fulfilment than knowing exactly where their money money is going because of these,
-                She saw it fit to partner with Makongo computer college located in one of the vulnerable areas-Mukuru kwa Ruben to help provide a good education because she believes in a good education and youth empowerment.
-                "Create independent youth through an education"
-                MHHF works to improving lives regardless of age, origin, gender and faith
-              </p>
               <div className="md:grid grid-cols-2 gap-4">
-                    <div>
-                        <img src="https://i.postimg.cc/BQTF0KNw/mental3.jpg" alt="" />
-                    </div>
-                    <div>
-                       <p>
-                       Our work:
-                        Giving a quality education is the best way to create equality around the world.
-                        However, this has proven to be facing the biggest challenge- vulnerability.
-                        Makongo computer college is helping solve this by offering computer skills to students with the help of donations and  volunteers.
-                        We are looking to extend this deed to abandoned children in orphanages through sponsorships.
-                        For only 400 dollars a year, you could help a child stay in school and still feel included.
-                      </p>
-                  </div>
+                <div>
+                    <p>Mobilizing resources and skills that empower vulnerable communities.
+                      MHHF aims at impacting the society and ensuring equality in slum and rural areas through good if not quality education and healthcare.
+                      The founder and Executive personnel, Christine Akombo is a mentor and works closely with several Non
+                       governmental organisations including Global Give Back Circle( GGBC) as a volunteer mentor is equally a mental health enthusiast.
+                    </p>
+                    <p>
+                     Nothing gives anyone fulfilment than knowing exactly where their money money is going because of these,
+                      She saw it fit to partner with Makongo computer college located in one of the vulnerable areas-Mukuru kwa Ruben to help provide a good education because she believes in a good education and youth empowerment.
+                      "Create independent youth through an education"
+                      MHHF works to improving lives regardless of age, origin, gender and faith
+                    </p>
+                </div>
+                 <div>
+                    <img src="https://i.postimg.cc/BQTF0KNw/mental3.jpg" alt="" />
+                </div>
               </div> 
-            </div>
+              <div className="md:grid grid-cols-2 gap-4">
+                <div>
+                    <img src="https://i.postimg.cc/BQTF0KNw/mental3.jpg" alt="" />
+                </div>
+                <div>
+                    <p>
+                    Our work:
+                    Giving a quality education is the best way to create equality around the world.
+                    However, this has proven to be facing the biggest challenge- vulnerability.
+                    Makongo computer college is helping solve this by offering computer skills to students with the help of donations and  volunteers.
+                    We are looking to extend this deed to abandoned children in orphanages through sponsorships.
+                    For only 400 dollars a year, you could help a child stay in school and still feel included.
+                  </p>
+                </div>
+              </div> 
             <div className="py-6">
                 <div className="md:flex">
                     <div className="w-full bg-[#F4F7ED] p-4 text-center space-y-3">
